@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo_benchmarks/commit/4f920cc18c7bf27a08f8d966e6842c480b3cc579",
       "git:hexsha": "4f920cc18c7bf27a08f8d966e6842c480b3cc579",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:29:46.053845+00:00"
     }
   ]
 }
