@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "piccolo-orm",
+  "repo": "piccolo_benchmarks",
+  "versions": [
+    {
+      "commit": "4f920cc18c7bf27a08f8d966e6842c480b3cc579",
+      "parsed_at": "2026-10-21T02:28:09.705504+00:00",
+      "filetree": "filetree/4f920cc18c7bf27a08f8d966e6842c480b3cc579.nq.gz",
+      "blobs": [
+        "blob/07b5989f7405cc3bd52fcd8cd26d7a6918c0e7fa.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz",
+        "blob/3f9ceea31c71df0e4c5478a681bf52da4301c229.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
