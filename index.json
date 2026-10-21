@@ -1,0 +1,11 @@
+{
+  "org": "piccolo-orm",
+  "repo": "piccolo_benchmarks",
+  "versions": [
+    {
+      "commit": "4f920cc18c7bf27a08f8d966e6842c480b3cc579",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:29:46.054217+00:00"
+    }
+  ]
+}
